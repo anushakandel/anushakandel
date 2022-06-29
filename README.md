@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anushakandel
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning SQL, Python and Statistics
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently expanding my knowledge in SQL, Python and Statistics
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 How to reach me ...
 
 <!---
